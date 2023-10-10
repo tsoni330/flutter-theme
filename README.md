@@ -23,4 +23,4 @@ To get started with this project, make sure you have Flutter and Dart installed.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/flutter-theme-changer.git
+   git clone https://github.com/tsoni330/flutter-theme.git
