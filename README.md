@@ -1,7 +1,5 @@
 # Flutter Theme Changer using Provider State Management
 
-![Provider](https://pub.dev/packages/provider)
-
 A Flutter project that demonstrates how to implement a dynamic theme changer using the Provider state management library. This project allows users to switch between light and dark themes with a smooth animation.
 
 ## Features
@@ -13,8 +11,8 @@ A Flutter project that demonstrates how to implement a dynamic theme changer usi
 
 ## Screenshots
 
-![Light Theme](screenshots/light_theme.png) 
-![Dark Theme](screenshots/dark_theme.png)
+![Light Theme](lib/Screenshots/Light Theme.png)
+![Dark Theme](lib/Screenshots/Dark Theme.png)
 
 ## Getting Started
 
