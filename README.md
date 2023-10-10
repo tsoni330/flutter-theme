@@ -11,8 +11,8 @@ A Flutter project that demonstrates how to implement a dynamic theme changer usi
 
 ## Screenshots
 
-![Light Theme](lib/Screenshots/Light Theme.png)
-![Dark Theme](lib/Screenshots/Dark Theme.png)
+![Light Theme](https://github.com/tsoni330/flutter-theme/blob/main/lib/Screenshots/Light%20Theme.jpg)
+![Dark Theme](https://github.com/tsoni330/flutter-theme/blob/main/lib/Screenshots/Dark%20Theme.jpg)
 
 ## Getting Started
 
